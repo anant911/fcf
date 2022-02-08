@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(27, 158, 240, 0.496);
+}
+
+.heading{
+    background-color: rgb(18, 149, 230);
+    color: rgb(228, 239, 240);
+}
+
+#showsketch{
+    float: right;
+}
+
+#timer{
+ float: left;   
+ margin: 20px;
+ color:aliceblue;
+ font-size: large;
+}
+
+#score{
+    float: right;
+    margin: 20px;
+    color: aliceblue;
+    font-size: large;
+
+
+}
